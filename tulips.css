@@ -209,7 +209,7 @@ body {
   width: 60%;
   height: 60%;
   border-radius: inherit;
-  background-image: repeating-linear-gradient(135deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), repeating-linear-gradient(45deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), repeating-linear-gradient(67.5deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), repeating-linear-gradient(135deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), repeating-linear-gradient(45deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), repeating-linear-gradient(112.5deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), repeating-linear-gradient(112.5deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), repeating-linear-gradient(45deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), repeating-linear-gradient(22.5deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), repeating-linear-gradient(45deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), repeating-linear-gradient(22.5deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), repeating-linear-gradient(135deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), repeating-linear-gradient(157.5deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), repeating-linear-gradient(67.5deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), repeating-linear-gradient(67.5deg, yellow 0px, yellow 1px, transparent 1px, transparent 12px), linear-gradient(90deg, yellow, yellow);
+  background-image: #fff;
 }
 .flower__line {
   height: 55vmin;
